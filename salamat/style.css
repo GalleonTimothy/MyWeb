@@ -1,0 +1,72 @@
+body{
+    background-image: linear-gradient(pink, orange);
+    height: 100vh;
+}
+
+.container{
+    width: 90%;
+    margin-top: 50px;
+    height: auto;
+    border-radius: 30px;
+    border: 2px solid black;
+    background-color: #ffffff;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23a48ec8' fill-opacity='0.4'%3E%3Cpath d='M0 38.59l2.83-2.83 1.41 1.41L1.41 40H0v-1.41zM0 1.4l2.83 2.83 1.41-1.41L1.41 0H0v1.41zM38.59 40l-2.83-2.83 1.41-1.41L40 38.59V40h-1.41zM40 1.41l-2.83 2.83-1.41-1.41L38.59 0H40v1.41zM20 18.6l2.83-2.83 1.41 1.41L21.41 20l2.83 2.83-1.41 1.41L20 21.41l-2.83 2.83-1.41-1.41L18.59 20l-2.83-2.83 1.41-1.41L20 18.59z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+
+
+}
+
+
+img{
+    width: 70px;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 2px;
+    background: pink;
+
+
+}
+
+
+h2 {
+    width: 95%; 
+    text-align: center; 
+    border-bottom: 3px solid black; 
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+    font-family: cursive;
+ } 
+
+
+ 
+ h2 span { 
+     background:white; 
+     padding:0 10px; 
+ }
+
+ .inside{
+    width: 90%;
+    background: wheat;
+    height:40vh;
+    border-radius: 10px;
+    border: 2px solid black;
+
+ }
+ p{
+    text-align: center;
+    padding-top: 20px;
+    font-family: cursive;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+ }
+
+ .ewan{
+    height: 20px;
+ }
